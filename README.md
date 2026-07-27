@@ -23,7 +23,7 @@ The objective of this project is to analyze the performance of teams and players
 
 ### Source
 
-🔗 [Official UEFA Champions League statistics](https://www.uefa.com/uefachampionsleague/)
+[Official UEFA Champions League statistics](https://www.uefa.com/uefachampionsleague/)
 
 ### Dataset Description
 
