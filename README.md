@@ -2,7 +2,7 @@
 
 This project is an interactive dashboard built in Looker Studio using a fictional UEFA Champions League 2024/25 dataset.
 
-🔗 **Interactive Dashboard:** https://datastudio.google.com/s/g8wZsmutRqw
+🔗 **Interactive Dashboard:** [Looker Studio Link] https://datastudio.google.com/s/g8wZsmutRqw
 
 ---
 
